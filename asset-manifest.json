@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fasal/static/css/main.f369943f.css",
+    "main.js": "/fasal/static/js/main.697f9629.js",
+    "static/js/787.535b6969.chunk.js": "/fasal/static/js/787.535b6969.chunk.js",
+    "index.html": "/fasal/index.html",
+    "main.f369943f.css.map": "/fasal/static/css/main.f369943f.css.map",
+    "main.697f9629.js.map": "/fasal/static/js/main.697f9629.js.map",
+    "787.535b6969.chunk.js.map": "/fasal/static/js/787.535b6969.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f369943f.css",
+    "static/js/main.697f9629.js"
+  ]
+}
